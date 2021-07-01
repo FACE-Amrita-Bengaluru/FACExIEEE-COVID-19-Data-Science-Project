@@ -1,6 +1,13 @@
-# FACExIEEE-COVID-19-Data-Science-Project
+# COVID 19 - Data Analytics Project
 
 ### **Project Aim:** 
 Analyzing prevalent COVID-19 datasets to generate insights on the spread of COVID-19 over time using charts, graphs, time series and other tools.
 
-By Sree Neha M
+**Author:** Sree Neha M (2nd Year, CSE)
+
+## Want to contribute?
+
+**Follow the steps below to contribute to this repository:**
+1. Fork this repository onto your account.
+2. Commit your changes onto the forked repository.
+3. Create a pull request and we'll review your commits!
